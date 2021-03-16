@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            nocopyandpaste
+tagline:          '(trying to) make art with python'
+description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
 url:              http://hyde.getpoole.com
 baseurl:          '/trython/'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Stacey tsui'
+  url:            https://twitter.com/tsuistacey
 
 paginate:         5
 
