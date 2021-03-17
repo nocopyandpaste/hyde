@@ -10,11 +10,11 @@ title:            butterbutt
 tagline:          '(trying to) make art with python'
 description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
 url:              http://hyde.getpoole.com
-baseurl:          '/nocopyandpaste/'
+baseurl:          '/nocopyandpaste.github.io/'
 
 author:
   name:           'Stacey tsui'
-  url:            https://twitter.com/tsuistacey
+  url:            https://twitter.com/tsuistacey/
 
 paginate:         5
 
@@ -23,15 +23,3 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
-
-social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "twitter.com/tsuistacey"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
