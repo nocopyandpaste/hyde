@@ -10,7 +10,7 @@ title:            butterbutt
 tagline:          '(trying to) make art with python'
 description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
 url:              http://hyde.getpoole.com
-baseurl:          ''
+baseurl:          '/nocopyandpaste'
 
 author:
   name:           'Stacey tsui'
