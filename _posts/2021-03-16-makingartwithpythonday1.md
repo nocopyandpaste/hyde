@@ -1,7 +1,7 @@
 ---
 layout: post
 title: making art with python: day 1
-
+published: false
 ---
 
 
