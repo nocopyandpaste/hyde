@@ -23,3 +23,15 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "twitter.com/tsuistacey"
+    - icon: fa-linkedin
+      link: "#"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/agusmakmun"
