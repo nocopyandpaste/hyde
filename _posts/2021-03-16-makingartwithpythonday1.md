@@ -1,7 +1,9 @@
 ---
 layout: post
-title: make art with python: day 1
+title: making art with python: day 1
+
 ---
+
 
 ### Learning to code
 
