@@ -11,7 +11,7 @@ title: "making art with python: day 3"
 
 <p>Though I said this is about making art with python. Day 3 is still about making this damn GitHub page. But more importantly I see my own improvement. So I deserve some applause from me, myself and I.</p>
 <p>&nbsp;</p>
-<p>#Things I&rsquo;ve accomplished</p>
+##Things I&rsquo;ve accomplished
 <ul>
     <li>Build the fucking site</li>
 </ul>
@@ -24,7 +24,7 @@ title: "making art with python: day 3"
     <li>Social media button!</li>
 </ul>
 <p>YAY! BIG YAY. I mean, it&rsquo;s not like I coded the whole js and it&rsquo;s just a built-in data ability, but I finally made it after a few fail attempts. Turns out I didn&rsquo;t read it through and didn&rsquo;t import the FontAwesome stylesheet. Thank you https://jreel.github.io/social-media-icons-on-jekyll/! You did a great job writing tutorial to programming illiterates like me.</p>
-<p>#To-do list</p>
+##To-do list
 <ul>
     <li>Navigation</li>
 </ul>
@@ -37,7 +37,7 @@ title: "making art with python: day 3"
     <li>Domain</li>
 </ul>
 <p>I for some reason can&rsquo;t make the site work without giving it a subdomain. I actually want it to be just https://nocopyandpaste.github.io/ without that stupid pun.</p>
-<p>#Problems to be fixed</p>
+##Problems to be fixed
 <ul>
     <li>Hyperlinks</li>
 </ul>
