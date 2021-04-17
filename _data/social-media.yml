@@ -5,11 +5,13 @@ email:
   fa-icon: 'fa-envelope-square'
 
 twitter:
+  id: 'https://www.twitter.com/tsuistacey'
   href: 'https://www.twitter.com/tsuistacey'
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
 
 github:
+  id: 'https://github.com/nocopyandpaste/'
   href: 'https://github.com/nocopyandpaste/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
