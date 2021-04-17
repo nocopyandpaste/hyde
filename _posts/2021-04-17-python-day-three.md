@@ -23,7 +23,7 @@ title: "making art with python: day 3"
 <ul>
     <li>Social media button!</li>
 </ul>
-<p>YAY! BIG YAY. I mean, it&rsquo;s not like I coded the whole js and it&rsquo;s just a built-in data ability, but I finally made it after a few fail attempts. Turns out I didn&rsquo;t read it through and didn&rsquo;t import the FontAwesome stylesheet. Thank you https://jreel.github.io/social-media-icons-on-jekyll/! You did a great job writing tutorial to programming illiterates like me.</p>
+<p>YAY! BIG YAY. I mean, it&rsquo;s not like I coded the whole js and it&rsquo;s just a built-in data ability, but I finally made it after a few fail attempts. Turns out I didn&rsquo;t read it through and didn&rsquo;t import the FontAwesome stylesheet. Thank you <a href="https://jreel.github.io/social-media-icons-on-jekyll/" rel="noopener noreferrer" target="_blank">Jreel</a>! You did a great job writing tutorial to programming illiterates like me.</p>
 ##To-do list
 <ul>
     <li>Navigation</li>
