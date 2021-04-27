@@ -10,7 +10,7 @@ title:            staceyofalltrades
 tagline:          'master of none, for sure.'
 description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
 url:              http://hyde.getpoole.com
-baseurl:          '/learningdiery/'
+baseurl:          '/staceyofalltrades/'
 
 author:
   name:           'Stacey tsui'
