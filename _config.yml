@@ -6,11 +6,11 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            staceyofalltrades
+title:            learningdiery
 tagline:          'master of none for sure'
 description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
 url:              http://hyde.getpoole.com
-baseurl:          'staceyofalltrades'
+baseurl:          '/learningdiery/'
 
 author:
   name:           'Stacey tsui'
