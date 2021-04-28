@@ -9,12 +9,12 @@ permalink:        pretty
 title:            stay of all trades
 tagline:          'master of none, for sure.'
 description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
-url:              http://hyde.getpoole.com
-baseurl:          '/learningdiery/'
+url:              'https://nocopyandpaste.github.io'
+baseurl:          '/'
 
 author:
   name:           'Stacey tsui'
-  url:            https://twitter.com/tsuistacey/
+  url:            'https://twitter.com/tsuistacey/'
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://nocopyandpaste.github.io/homework
+  repo:           'https://github.com/nocopyandpaste/nocopyandpaste.github.io'
