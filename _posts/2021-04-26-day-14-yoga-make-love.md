@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yoga is to make love to yourself.
+title: Day 14: Yoga is to make love to yourself.
 ---
 
 <p>No. Not masturbating. </p>
