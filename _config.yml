@@ -11,6 +11,7 @@ tagline:          'master of none, for sure.'
 description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
 url:              'https://nocopyandpaste.github.io'
 baseurl:          ''
+newbaseurl:       /
 
 author:
   name:           'Stacey tsui'
