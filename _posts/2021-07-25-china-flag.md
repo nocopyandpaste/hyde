@@ -5,7 +5,7 @@ title: "Python: Day 10"
 
 ### Long time no Xi!.
 
-<embed src="https://thumbs.gfycat.com/ShrillAnnualChuckwalla-mobile.mp4" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+<img src="https://media.giphy.com/media/zeR2sRo0en753mi3ft/giphy.gif" alt="trutle"> 
 
 
 <p>TBC </p>
