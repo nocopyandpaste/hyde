@@ -12,7 +12,7 @@ description:      'my journey learning python following the book <a href="https:
 url:              /
 baseurl:          'https://nocopyandpaste.github.io'
 newbaseurl:       /
-root: /octo-5
+
 author:
   name:           'Stacey tsui'
   url:            'https://twitter.com/tsuistacey/'
