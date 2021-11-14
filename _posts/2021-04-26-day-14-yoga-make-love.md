@@ -9,6 +9,8 @@ title: "Yoga: Day 14"
 
 <p>I have to first admit I’m just as basic as people I judge - I searched ‘yoga lost weight’ on reddit earlier today, and I saw someone says ‘The goal of yoga isn’t losing weight, but your relationship with your body will be completely transformed.’ It hits me pretty hard as a year ago I wouldn’t appreciate myself for just a tiny bit of effort I made but instead I’d be judging myself for not achieving more. </p>
 
+<!--more-->
+
 <p>To say ‘trained’ is a bit strong, but yoga has been teaching me to review my relationship with myself, to listen to my own body, and to breath the moment. I feel pain therefore I exist. Every tendon and muscle being torn and ripped apart is a reminder of how I try to live a little better, therefore, the will to live which I’ve been lacking.</p>
 
 <p>I got a haircut yesterday and I now look like a lady who has a high diploma from the institutions where most cops got their diploma from because she couldn’t get into university and now works as a clerk and thinks girls who have had more than two sexual partners are sluts. I used to look like the slut. But it’s a lesson I’ve learnt - don’t get bangs and don’t get layered hair. So I’ve learnt something and it’s good. </p>
