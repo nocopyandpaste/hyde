@@ -9,3 +9,4 @@ title: "Python: Day 10"
 
 
 <p>TBC </p>
+<!--more-->
