@@ -9,9 +9,8 @@ permalink:        pretty
 title:            de-press stacey
 tagline:          ' '
 description:      'journal of what i try to do after i got de-press-ed in hong kong to not get depressed.'
-url:              'https://stayteef.github.io'
+url:              https://stayteef.github.io
 baseurl:          /
-newbaseurl:       /
 
 author:
   name:           'Stacey tsui'
