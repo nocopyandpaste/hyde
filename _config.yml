@@ -9,7 +9,7 @@ permalink:        pretty
 title:            stay of all trades
 tagline:          'master of none, for sure.'
 description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
-url:              'https://nocopyandpaste.github.io'
+url:              'https://stayteef.github.io'
 baseurl:          /
 newbaseurl:       /
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           'https://github.com/nocopyandpaste/nocopyandpaste.github.io'
+  repo:           'https://github.com/stayteef/stayteef.github.io'
