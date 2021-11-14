@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            stay of all trades
-tagline:          'master of none, for sure.'
-description:      'my journey learning python following the book <a href="https://www.makeartwithpython.com/"><I>Make Art With Python</I></a> by Kirk Kaiser.'
+title:            de-press stacey
+tagline:          ' '
+description:      'journal of what i try to do after i got de-press-ed in hong kong to not get depressed.'
 url:              'https://stayteef.github.io'
 baseurl:          /
 newbaseurl:       /
