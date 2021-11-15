@@ -15,3 +15,5 @@ I forked Hyde, a [Jekyll](http://jekyllrb.com) theme, to create this blog. I hav
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+<small><small><small>[@aaronsw](https://github.com/aaronsw), thanks for founding markdown, you will always be missed.</small> </small> </small> 
