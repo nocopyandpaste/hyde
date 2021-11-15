@@ -16,4 +16,4 @@ Open sourced under the [MIT license](LICENSE.md).
 
 <3
 
-<small><small><small>[@aaronsw](https://github.com/aaronsw), thanks for founding markdown, you will always be missed.</small> </small> </small> 
+ <font size="1"> [@aaronsw](https://github.com/aaronsw), thanks for founding markdown, you will always be missed.</font> 
