@@ -8,7 +8,7 @@ I'm a heavily right-brained person who's unfortunately very into Digital Revolut
 
 ## Open Source is great
 
-I forked the Hyde, a [Jekyll](http://jekyllrb.com) theme, to create this blog. I have been trying to build and decorate my blog with an excessive amount of stack overflow browsing. 
+I forked Hyde, a [Jekyll](http://jekyllrb.com) theme, to create this blog. I have been trying to build and decorate my blog with an excessive amount of stack overflow browsing. 
 
 ## License
 
