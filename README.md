@@ -2,18 +2,9 @@
 
 I've created this blog for blogging.
 
-
-## Contents
-
-- [About me](#About me)
-- [Open Source is great](#Open Source is great)
-- [License](#license)
-
-
 ## About me
 
-I'm a heavily right-brained person who's unfortunately very into Digital Revolution. Since my career path has been killed, I've decided to devote my time to learning Python and Processing. 
-
+I'm a heavily right-brained person who's unfortunately very into Digital Revolution. Since my career path has been killed, I've decided to devote my time to learning Python and Processing. You can check out my another [repository](https://github.com/stayteef/learningpython) to view the source code of my learning journey. 
 
 ## Open Source is great
 
