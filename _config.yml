@@ -18,7 +18,7 @@ author:
   url:            'https://twitter.com/tsuistacey/'
 
 paginate:         5
-excerpt_separator: "<!--break-->"
+
 # Custom vars
 version:          2.1.0
 
