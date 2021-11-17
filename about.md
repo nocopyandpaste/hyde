@@ -44,7 +44,7 @@ Fast-forwarding to November 2020, four months after Beijing enacted the draconia
  
 So.. what am I gonna do with my life anymore?
  
-One of the things I've learned from my mental illness is that, having people feeling sorry for you is not a good feeling. When your friends are in jail for justice, I've come to realising living a good life on their behalf is essential, as well as what they want us to be doing. Acknowledge the very fact that not everyone can be Kafka, we might as well just enjoy what we do while being a good person, other than always pursuing something big.
+One of the things I've learned from my mental illness is that, having people feeling sorry for you is not a good feeling. When your friends are in jail for justice, I've come to realising living a good life on their behalf is essential, as well as what they want us to be doing. Acknowledging the very fact that not everyone can be Kafka, we might as well just enjoy what we do while being a good person, other than always pursuing something big.
  
 So yeah, I'm not a journalist anymore, in a way, but I can still try to be a better person everyday, which could mean, acquiring new skills no matter how old you are or becoming.
  
