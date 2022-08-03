@@ -6,7 +6,7 @@ title: "HK: Day 9 -  "Hongkongshima "
 
 It surprises me that there is still such a straightforward and blunt theater work that refers to Hong Kong's long-running democratic movement, which for some people, had come to an end. To be frank, if I had known it point-blank points to, or intimate the uprisings, I wouldn't have gone. 
 
- <img src="https://github.com/stayteef/stayteef.github.io/blob/gh-pages/mediabank/hkshi.JPG?raw=true"> 
+ <img src="[https://github.com/stayteef/stayteef.github.io/blob/gh-pages/mediabank/hkshi.JPG?raw=true](https://github.com/stayteef/stayteef.github.io/blob/gh-pages/mediabank/hkshi.jpg?raw=true)"> 
  
 Don't get me wrong, of course I'm interested in political literature, profoundly actually, - I would not have made my biggest mistake in majoring in literature if not for Lu Xun. There have been a lot of plays I love that involve politics or Hong Kong society - in documentary theater, there was Rimini Protokoll's "100% Hong Kong", for experimental theater, there was On and on's "Postcolonial Affairs of Food and The Heart", for mainstream theater, there was "May 35th". Not to mention classics like Ariel Dorfman or Martin McDonagh. In all of them, politics is a top note, perfuming the odor of the playwright's political stance proudly.
 
