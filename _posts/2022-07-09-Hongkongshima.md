@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HK: Day 9 -  "Hongkongshima "
+title: "HK: Day 9 - Hongkongshima "
 ---
 ### soundbite literature
 
